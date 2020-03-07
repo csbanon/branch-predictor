@@ -5,7 +5,7 @@
 * **Year:** 2019
 * **Language(s):** C#
 * **Discipline(s):** Computer Architecture, Computer Engineering, Computer Science
-* **Keywords:** Branch Prediction, Branch Predictor, GBH, Global Branch Predictor, Global Branch History, Global History Record, gshare, gshare Table, Missprediction Ratio, Pattern History Table, PC Bits
+* **Keywords:** `Branch Prediction`, `Branch Predictor`, `GBT`, `GHR`, `Global Branch Predictor`, `Global Buffer Table`, `Global History Record`, `gshare`, `gshare Table`
 
 ## Description
 
