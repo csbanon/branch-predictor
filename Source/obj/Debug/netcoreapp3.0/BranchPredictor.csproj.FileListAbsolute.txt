@@ -1,0 +1,11 @@
+/Users/csbanon/Desktop/BranchPredictor/bin/Debug/netcoreapp3.0/BranchPredictor
+/Users/csbanon/Desktop/BranchPredictor/bin/Debug/netcoreapp3.0/BranchPredictor.deps.json
+/Users/csbanon/Desktop/BranchPredictor/bin/Debug/netcoreapp3.0/BranchPredictor.runtimeconfig.json
+/Users/csbanon/Desktop/BranchPredictor/bin/Debug/netcoreapp3.0/BranchPredictor.runtimeconfig.dev.json
+/Users/csbanon/Desktop/BranchPredictor/bin/Debug/netcoreapp3.0/BranchPredictor.dll
+/Users/csbanon/Desktop/BranchPredictor/bin/Debug/netcoreapp3.0/BranchPredictor.pdb
+/Users/csbanon/Desktop/BranchPredictor/obj/Debug/netcoreapp3.0/BranchPredictor.csprojAssemblyReference.cache
+/Users/csbanon/Desktop/BranchPredictor/obj/Debug/netcoreapp3.0/BranchPredictor.AssemblyInfoInputs.cache
+/Users/csbanon/Desktop/BranchPredictor/obj/Debug/netcoreapp3.0/BranchPredictor.AssemblyInfo.cs
+/Users/csbanon/Desktop/BranchPredictor/obj/Debug/netcoreapp3.0/BranchPredictor.dll
+/Users/csbanon/Desktop/BranchPredictor/obj/Debug/netcoreapp3.0/BranchPredictor.pdb
