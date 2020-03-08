@@ -26,3 +26,13 @@ The following files contain the list of branch instructions:
 2. `MCF.txt`
 
 *Note: Both files are already included with the executables. For best results, use one of these for the simulation.*
+
+## Build Instructions
+
+1. Download the repository.
+2. Open Terminal, and go to the directory corresponding to your operating system (`macOS` or `Windows64`).
+3. Once inside the directory, simply type the following:
+
+    `./BranchPredictor <GPB> <RB> <Input_File>`
+
+4. Finally, always ensure that the input files are in the same directory as the executable file.
