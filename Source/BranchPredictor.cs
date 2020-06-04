@@ -1,10 +1,6 @@
 ﻿// Carlos Santiago Bañón
-// University of Central Florida
 
-// EEL 4768, Fall '19
-// Dr. Suboh Suboh
-
-// Project #2: Branch Predictor
+// Branch Predictor
 // BranchPredictor.cs
 
 using System;
